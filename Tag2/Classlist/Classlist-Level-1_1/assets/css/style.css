@@ -1,0 +1,11 @@
+.headline-class {
+  text-align: center;
+  font-size: 36px;
+  color: #2c3e50;
+}
+
+.list-class {
+  font-family: "Courier New", Courier, monospace;
+  color: #16a085;
+  font-size: 18px;
+}
